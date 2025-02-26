@@ -1,2 +1,2 @@
-# concurso-practica
-Recursos e información.
+# concurso
+Recursos e información de actividades prácticas.
