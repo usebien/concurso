@@ -1,2 +1,2 @@
-# concurso-pr-ctica
+# concurso-practica
 Recursos e información.
