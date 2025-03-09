@@ -1,0 +1,19 @@
+manufacturer,cpuName,singleScore,multiScore,cores,threads,baseClock,turboClock,type
+Intel,Core i5 11400,1358,9649,6,12,2.6,4.4,Desktop
+Intel,Core i7 8086K,1344,10342,6,12,4.0,5.0,Desktop
+Intel,Core i9 9900X,1189,14180,10,20,3.5,4.4,Desktop
+Intel,Core i7 9800X,1288,13253,8,16,3.8,4.4,Desktop
+AMD,Threadripper 3960X,1307,34932,24,64,3.8,4.5,Desktop
+Intel,Core i9 9920X,1077,15018,12,24,3.5,4.4,Desktop
+Intel,Core i9 10850K,1325,15762,10,20,3.6,5.2,Desktop
+Intel,Core i7 10700,1237,8649,8,16,2.9,4.8,Desktop
+Intel,Core i7 1260P,1648,8615,12,16,2.1,4.7,Laptop
+Apple,M1,1533,7850,8,8,2.1,3.2,Laptop
+AMD,Ryzen 5 5600U,1379,7697,6,12,2.3,4.2,Laptop
+Intel,Core i7 11850H,1546,12442,8,16,2.1,4.8,Laptop
+Intel,Core i5 11500H,1511,9693,6,12,2.4,4.6,Laptop
+AMD,Ryzen 9 5900HX,1504,12941,8,16,3.3,4.6,Laptop
+AMD,Ryzen 7 4800U,1241,9876,8,16,1.8,4.2,Laptop
+AMD,Ryzen 9 4900HS,1250,11145,8,16,3.0,4.3,Laptop
+Intel,Core i7 11370H,1535,5778,4,8,3.0,4.8,Laptop
+AMD,Ryzen 5 4600U,1178,8176,6,12,2.1,4.0,Laptop
