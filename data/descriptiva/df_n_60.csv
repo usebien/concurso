@@ -1,0 +1,61 @@
+manufacturer,cpuName,singleScore,multiScore,cores,threads,baseClock,turboClock,type
+AMD,Ryzen 9 4900HS,1250,11145,8,16,3.0,4.3,Laptop
+Intel,Core i7 10700,1237,8649,8,16,2.9,4.8,Desktop
+Intel,Core i7 9700K,1293,9605,8,8,3.6,4.9,Desktop
+Intel,Core i7 9850H,1206,7045,6,12,2.6,4.6,Laptop
+AMD,Ryzen 3 Pro 4350G,1178,6093,4,8,3.8,4.0,Desktop
+AMD,Threadripper 3990X,1262,75671,64,128,2.9,4.5,Desktop
+AMD,Threadripper 2950X,1135,18797,16,32,3.5,4.4,Desktop
+AMD,Threadripper 1900X,1005,8979,8,16,3.8,4.0,Desktop
+Intel,Core i3 10300,1248,6051,4,8,3.7,4.4,Desktop
+Intel,Core i9 10900F,1367,10890,10,20,2.8,5.2,Desktop
+Intel,Core i5 10400F,1119,7724,6,12,2.9,4.3,Desktop
+AMD,Ryzen 5 Pro 4650G,1267,9356,6,12,3.7,4.2,Desktop
+AMD,Ryzen 7 1700X,987,8872,8,16,3.4,3.8,Desktop
+AMD,Ryzen 7 2700X,1102,10140,8,16,3.7,4.3,Desktop
+AMD,Ryzen 5 4600H,1156,8075,6,12,3.0,4.0,Laptop
+Intel,Core i7 10875H,1260,8952,8,16,2.3,5.1,Laptop
+Intel,Core i5 10500T,1086,7531,6,12,2.3,3.8,Desktop
+Intel,Core i5 12400F,1736,12071,6,12,2.5,4.4,Desktop
+Intel,Core i5 10600T,1134,7901,6,12,2.4,4.0,Desktop
+AMD,Ryzen 7 5700U,1266,9064,8,16,1.8,4.3,Laptop
+Intel,Core i9 9960X,1085,18125,16,32,3.1,4.4,Desktop
+Intel,Core i9 9900K,1358,12581,8,16,3.6,5.0,Desktop
+Intel,Core i9 9880H,1152,8822,8,16,2.3,4.8,Laptop
+AMD,Ryzen 7 Pro 4750G,1344,13109,8,16,3.6,4.4,Desktop
+AMD,Epyc 7702P,993,48959,64,128,2.0,3.35,Desktop
+Intel,Core i5 8600K,1261,6814,6,6,3.6,4.3,Desktop
+Intel,Core i9 11900,1473,13499,8,16,2.5,5.2,Desktop
+Intel,Core i5 11500H,1511,9693,6,12,2.4,4.6,Laptop
+Intel,Core i7 10750H,1178,7343,6,12,2.6,5.0,Laptop
+AMD,Ryzen 7 6800U​,1417,12221,8,16,2.7,4.7,Laptop
+Intel,Core i9 9900KF,1296,12959,8,16,3.6,5.0,Desktop
+AMD,Ryzen 5 5600X,1593,11201,6,12,3.7,4.6,Desktop
+Intel,Core i9 10980HK,1299,10654,8,16,2.4,5.3,Laptop
+AMD,Ryzen 9 4900H,1305,11538,8,16,3.3,4.4,Laptop
+Intel,Core i9 9980HK,1197,8484,8,16,2.4,5.0,Laptop
+AMD,Ryzen 9 4900HS,1250,11145,8,16,3.0,4.3,Laptop
+Intel,Core i7 10700,1237,8649,8,16,2.9,4.8,Desktop
+Intel,Core i7 9800X,1288,13253,8,16,3.8,4.4,Desktop
+AMD,Ryzen 9 5950X,1684,28782,16,32,3.4,4.9,Desktop
+Intel,Core i5 10400,1137,7670,6,12,2.9,4.3,Desktop
+Intel,Core i9 11900KF,1670,16367,8,16,3.5,5.3,Desktop
+Intel,Core i7 10870H,1235,9986,8,16,2.2,5.0,Laptop
+Intel,Core i9 10900T,1283,12648,10,20,1.9,4.6,Desktop
+Intel,Core i7 7800X,983,7445,6,12,3.5,4.0,Desktop
+Intel,Core i9 10850K,1325,15762,10,20,3.6,5.2,Desktop
+AMD,Threadripper 1950X,1027,19635,16,32,3.4,4.0,Desktop
+AMD,Ryzen 9 5980HX,1648,12017,8,16,3.3,4.8,Laptop
+Intel,Core i5 12500H,1732,14825,12,16,2.5,4.5,Laptop
+AMD,Ryzen 7 1700X,987,8872,8,16,3.4,3.8,Desktop
+AMD,Ryzen 7 4800U,1241,9876,8,16,1.8,4.2,Laptop
+Intel,Core i7 10710U,1270,5974,6,12,1.1,4.7,Laptop
+Intel,Core i9 10900KF,1516,17486,10,20,3.7,5.3,Desktop
+AMD,Ryzen 7 2700X,1102,10140,8,16,3.7,4.3,Desktop
+AMD,Ryzen 7 5700G,1535,14350,8,16,3.8,4.6,Desktop
+AMD,Threadripper 3990X,1262,75671,64,128,2.9,4.5,Desktop
+Intel,Core i7 11375H,1599,6766,4,8,3.0,5.0,Laptop
+Apple,M1 Ultra,1574,21817,20,20,2.0,3.2,Desktop
+Intel,Core i9 9900T,1233,10337,8,16,2.1,4.4,Desktop
+Intel,Core i5 8600K,1261,6814,6,6,3.6,4.3,Desktop
+AMD,Ryzen 5 6600U,1431,8121,6,12,2.9,4.5,Laptop
